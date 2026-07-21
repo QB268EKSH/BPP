@@ -10,7 +10,7 @@ BPP University (2025–Present)
 Below is a selection of my finest (and occasionally chaotic) Data Science projects. Each one includes a visual preview and a short executive summary explaining what I was *trying* to do — and what actually happened.
 
 
-### <a href="Projects/Project2.md">Project: Predicting Tea Consumption Using Machine Learning</a>
+### <a href="Project3.md">Project: Predicting Tea Consumption Using Machine Learning</a>
 
   <img src="https://placehold.co/600x300?text=Project+Image" 
        alt="Project preview image"
