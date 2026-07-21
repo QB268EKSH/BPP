@@ -11,8 +11,6 @@ Below is a selection of my finest (and occasionally chaotic) Data Science projec
 
 ### <a href="https://qb268eksh.github.io/Project1/">Project: Predicting Tea Consumption Using Machine Learning</a>
 
-### <a href="Project3.md">Project: Predicting Tea Consumption Using Machine Learning</a>
-
   <img src="https://placehold.co/600x300?text=Project+Image" 
        alt="Project preview image"
        style="width:100%; border-radius:6px; margin-bottom:10px;">
