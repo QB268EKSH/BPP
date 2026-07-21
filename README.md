@@ -9,6 +9,7 @@ BPP University (2025–Present)
 ## Projects
 Below is a selection of my finest (and occasionally chaotic) Data Science projects. Each one includes a visual preview and a short executive summary explaining what I was *trying* to do — and what actually happened.
 
+### <a href="https://qb268eksh.github.io/Project1/">Project: Predicting Tea Consumption Using Machine Learning</a>
 
 ### <a href="Project3.md">Project: Predicting Tea Consumption Using Machine Learning</a>
 
