@@ -15,6 +15,13 @@ Below is a selection of my finest (and occasionally chaotic) Data Science projec
   <img src="https://placehold.co/600x300?text=Project+Image" 
        alt="Project preview image"
        style="width:100%; border-radius:6px; margin-bottom:10px;">
+<div style="margin-bottom:20px;">
+  <h3>Project 1</h3>
+  <p>A short teaser summary about the project goes here.</p>
+  <a href="Projects/Project1.md">Open Full Project →</a>
+</div>
+
+
 
   <p>
     <strong>Executive Summary:</strong><br>
