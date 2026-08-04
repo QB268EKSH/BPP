@@ -11,7 +11,7 @@ Below is a selection of my finest (and occasionally chaotic) Data Science projec
 
 ***
 
-### <a href="https://qb268eksh.github.io/Project1/">Project: Evaluating the Impact of Model Complexity on Stock Market Direction Prediction Using Historical Trading Data</a>
+### <a href="https://qb268eksh.github.io/Project1/Project1.md">Project: Evaluating the Impact of Model Complexity on Stock Market Direction Prediction Using Historical Trading Data</a>
 
  <img src="/assets/PROJECT1.png"
      alt="Project preview image"
