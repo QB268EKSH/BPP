@@ -66,11 +66,11 @@ Additional features were engineered to capture market behaviour:
 
 These indicators capture short‑term momentum and longer‑term trends.
 
-<p align="center">
+<!-- <p align="center"> -->
   <img src="/assets/figures/Project1-Fig1.png" alt="Price Movements and Moving Averages" width="600">
   <br>
   <em>Figure 1: Price Movements and Moving Averages</em>
-</p>
+<!-- </p> -->
 
 The target variable was defined as a binary outcome indicating whether the stock price increased or decreased on the following trading day.
 
@@ -100,37 +100,32 @@ Temporal ordering was preserved using chronological train/test splits. Walk‑fo
 
 Rounded accuracy values:
 
-<div style="display: flex; justify-content: center; flex-direction: column; align-items: center;">
-  <table>
-    <thead>
-      <tr>
-        <th>Model</th>
-        <th>Accuracy</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Baseline</td>
-        <td>0.426</td>
-      </tr>
-      <tr>
-        <td>Logistic Regression</td>
-        <td>0.532</td>
-      </tr>
-      <tr>
-        <td>Neural Network (MLP)</td>
-        <td>0.553</td>
-      </tr>
-    </tbody>
+<div style="text-align: center;">
+  <table style="display: inline-block;">
+    <tr>
+      <th>Model</th>
+      <th>Accuracy</th>
+    </tr>
+    <tr>
+      <td>Baseline</td>
+      <td>0.43</td>
+    </tr>
+    <tr>
+      <td>Logistic Regression</td>
+      <td>0.53</td>
+    </tr>
+    <tr>
+      <td>Neural Network (MLP)</td>
+      <td>0.55</td>
+    </tr>
   </table>
-  <em>Figure 4: Model Accuracy Comparison</em>
 </div>
 
-<p align="center">
+<!-- <p align="center"> -->
   <img src="/assets/figures/Project1-Fig2.png" alt="Model Accuracy Comparison" width="600">
   <br>
   <em>Figure 2: Model Accuracy Comparison</em>
-</p>
+<!-- </p> -->
 
 Although the Neural Network delivered the strongest performance, the improvement over Logistic Regression was modest at **2.1 percentage points**.
 
@@ -149,11 +144,11 @@ Walk‑forward validation results:
 | Q2 2026 | 42.6% | 53.2% | 55.3% |
 | Q3 2026 | 50.0% | 50.0% | 75.0% |
 
-<p align="center">
+<!-- <p align="center"> -->
   <img src="/assets/figures/Project1-Fig3.png" alt="Walk-Forward Validation" width="600">
   <br>
   <em>Figure 3: Walk-Forward Validation</em>
-</p>
+<!-- </p> -->
 
 Findings:
 
@@ -183,11 +178,11 @@ Logistic Regression coefficients (rounded):
 
 `![](/assets/figures/Project1-Fig4.png)`
 
-<p align="center">
+<!-- <p align="center"> -->
   <img src="/assets/figures/Project1-Fig4.png" alt="Coefficient Plot" width="600">
   <br>
   <em>Figure 4: Coefficient Plot</em>
-</p>
+<!-- </p> -->
 
 Interpretation:
 
