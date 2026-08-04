@@ -24,7 +24,7 @@ Below is a selection of my finest (and occasionally chaotic) Data Science projec
 To test the hypothesis that increasing model complexity improves out-of-sample stock market direction prediction compared with a simpler Logistic Regression approach.
   </p>
 
-## Extra Links
+<strong>Extra Links</strong>
 
 <ul>
   <li><a href="assets/data.csv">Raw Data</a></li>
