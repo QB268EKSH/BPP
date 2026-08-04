@@ -66,8 +66,11 @@ Additional features were engineered to capture market behaviour:
 
 These indicators capture short‑term momentum and longer‑term trends.
 
-> **Image Placeholder:**  
-> `![Price Movements and Moving Averages](assets/figures/Project1-Fig1.png)`
+<p align="center">
+  <img src="/assets/figures/Project1-Fig1.png" alt="Price Movements and Moving Averages" width="600">
+  <br>
+  <em>Figure 1: Price Movements and Moving Averages</em>
+</p>
 
 The target variable was defined as a binary outcome indicating whether the stock price increased or decreased on the following trading day.
 
@@ -103,8 +106,11 @@ Rounded accuracy values:
 | Logistic Regression | 0.532 |
 | Neural Network (MLP) | 0.553 |
 
-> **Image Placeholder:**  
-> `![Model Accuracy Comparison](assets/figures/Project1-Fig2.png)`
+<p align="center">
+  <img src="/assets/figures/Project1-Fig2.png" alt="Model Accuracy Comparison" width="600">
+  <br>
+  <em>Figure 2: Model Accuracy Comparison</em>
+</p>
 
 Although the Neural Network delivered the strongest performance, the improvement over Logistic Regression was modest at **2.1 percentage points**.
 
@@ -123,10 +129,11 @@ Walk‑forward validation results:
 | Q2 2026 | 42.6% | 53.2% | 55.3% |
 | Q3 2026 | 50.0% | 50.0% | 75.0% |
 
-> **Image Placeholder:**  
-> `![Walk-Forward Validation](assets/figures/Project1-Fig3.png)`
-> ![Walk-Forward Validation](/BPP/Projects/assets/figures/Project1-Fig3.png)
-
+<p align="center">
+  <img src="/assets/figures/Project1-Fig3.png" alt="Walk-Forward Validation" width="600">
+  <br>
+  <em>Figure 3: Walk-Forward Validation</em>
+</p>
 
 Findings:
 
@@ -154,8 +161,13 @@ Logistic Regression coefficients (rounded):
 | Close | -0.424 |
 | Low | -0.444 |
 
-> **Image Placeholder:**  
-> `![Coefficient Plot](assets/figures/Project1-Fig4.png)`
+`![](/assets/figures/Project1-Fig4.png)`
+
+<p align="center">
+  <img src="/assets/figures/Project1-Fig4.png" alt="Coefficient Plot" width="600">
+  <br>
+  <em>Figure 4: Coefficient Plot</em>
+</p>
 
 Interpretation:
 
