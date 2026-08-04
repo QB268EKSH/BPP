@@ -11,7 +11,7 @@ Below is a selection of my finest (and occasionally chaotic) Data Science projec
 
 ***
 
-### <a href="Projects/Project1.md">Project: Evaluating the Impact of Model Complexity on Stock Market Direction Prediction Using Historical Trading Data</a>
+### <a href="Projects/README.md">Project: Evaluating the Impact of Model Complexity on Stock Market Direction Prediction Using Historical Trading Data</a>
 
 <img src="assets/figures/Project1-Fig1.png">
   
