@@ -30,3 +30,6 @@ To test the hypothesis that increasing model complexity improves out-of-sample s
  </ul>
 
 ***
+
+
+### <a href="Project3.md">Project: Evaluating the Impact of Model Complexity on Stock Market Direction Prediction Using Historical Trading Data</a>
