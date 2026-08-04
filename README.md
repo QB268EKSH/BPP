@@ -30,8 +30,6 @@ To test the hypothesis that increasing model complexity improves out-of-sample s
 
 <ul>
   <li><a href="assets/data.csv">Raw Data</a></li>
-  <li><a href="projects.html">Projects</a></li>
-  <li><a href="links.html">Extra Links</a></li>
-</ul>
+ </ul>
 
 ***
