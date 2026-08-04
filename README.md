@@ -7,7 +7,7 @@ Springfield University (2019–2023)\
 **BSc Data Science**  
 BPP University (2025–Present)
 ## Projects
-Below is a selection of my finest (and occasionally chaotic) Data Science projects. Each one includes a visual preview and a short executive summary explaining what I was *trying* to do — and what actually happened.
+Below is a selection of my finest (and occasionally chaotic) Data Science projects. Each one includes a visual preview and a short executive summary explaining what I was *trying* to do - and what actually happened.
 
 ***
 
