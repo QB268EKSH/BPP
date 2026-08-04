@@ -9,19 +9,14 @@ BPP University (2025–Present)
 ## Projects
 Below is a selection of my finest (and occasionally chaotic) Data Science projects. Each one includes a visual preview and a short executive summary explaining what I was *trying* to do — and what actually happened.
 
-### <a href="https://qb268eksh.github.io/Project1/">Project: Predicting Tea Consumption Using Machine Learning</a>
+### <a href="https://qb268eksh.github.io/Project1/">Project: Evaluating the Impact of Model Complexity on Stock Market Direction Prediction Using Historical Trading Data</a>
 
   <img src="https://placehold.co/600x300?text=Project+Image" 
        alt="Project preview image"
        style="width:100%; border-radius:6px; margin-bottom:10px;">
   <p>
     <strong>Executive Summary:</strong><br>
-    In this groundbreaking study, I attempted to build a machine learning model
-    that predicts how many cups of tea a person will drink based on stress levels,
-    weather conditions, and how many spreadsheets they opened that day. The model
-    achieved a stunning 92% accuracy, although it mostly just predicted “a lot.”
-    Key insights include: data scientists drink more tea when debugging, and
-    significantly more tea when pretending to debug.
+    This project investigated whether increasing model complexity improves next-day stock market direction prediction using Yahoo Finance data. Three classification models were evaluated: a Dummy Baseline Classifier, Logistic Regression and a Multi-Layer Perceptron (MLP) Neural Network. Accuracy improved from 42.6% to 53.2% and 55.3% respectively, suggesting that increased complexity can improve performance, although gains remain constrained by dataset limitations and market uncertainty.
   </p>
 </div>
 
