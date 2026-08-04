@@ -13,9 +13,10 @@ Below is a selection of my finest (and occasionally chaotic) Data Science projec
 
 ### <a href="Projects/Project1.md">Project: Evaluating the Impact of Model Complexity on Stock Market Direction Prediction Using Historical Trading Data</a>
 
- <img src="/assets/PROJECT1.png"
-     alt="Project preview image"
-     style="display:block; margin:0 auto; width:60%; border-radius:6px; margin-bottom:10px;">    
+<p align="center">
+  <img src="/assets/PROJECT1.png" alt="Project preview image" width="60%" style="border-radius:6px;">
+</p>
+  
   <p>
     <strong>Executive Summary:</strong><br>
     This project investigated whether increasing model complexity improves next-day stock market direction prediction using Yahoo Finance data. Three classification models were evaluated: a Dummy Baseline Classifier, Logistic Regression and a Multi-Layer Perceptron (MLP) Neural Network. Accuracy improved from 42.6% to 53.2% and 55.3% respectively, suggesting that increased complexity can improve performance, although gains remain constrained by dataset limitations and market uncertainty.
