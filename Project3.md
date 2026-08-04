@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Project 3
+title: Evaluating the Impact of Model Complexity on Stock Market Direction Prediction
 ---
+
 
 # TEST
