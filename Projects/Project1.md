@@ -67,7 +67,7 @@ Additional features were engineered to capture market behaviour:
 These indicators capture short‑term momentum and longer‑term trends.
 
 > **Image Placeholder:**  
-> `![Price Movements and Moving Averages](assets/img/figure1.png)`
+> `![Price Movements and Moving Averages](assets/figures/Project1-Fig1.png)`
 
 The target variable was defined as a binary outcome indicating whether the stock price increased or decreased on the following trading day.
 
@@ -104,7 +104,7 @@ Rounded accuracy values:
 | Neural Network (MLP) | 0.553 |
 
 > **Image Placeholder:**  
-> `![Model Accuracy Comparison](assets/img/figure2.png)`
+> `![Model Accuracy Comparison](assets/figures/Project1-Fig2.png)`
 
 Although the Neural Network delivered the strongest performance, the improvement over Logistic Regression was modest at **2.1 percentage points**.
 
@@ -124,7 +124,7 @@ Walk‑forward validation results:
 | Q3 2026 | 50.0% | 50.0% | 75.0% |
 
 > **Image Placeholder:**  
-> `![Walk-Forward Validation](assets/img/figure3.png)`
+> `![Walk-Forward Validation](assets/figures/Project1-Fig3.png)`
 
 Findings:
 
@@ -153,7 +153,7 @@ Logistic Regression coefficients (rounded):
 | Low | -0.444 |
 
 > **Image Placeholder:**  
-> `![Coefficient Plot](assets/img/figure4.png)`
+> `![Coefficient Plot](assets/figures/Project1-Fig4.png)`
 
 Interpretation:
 
