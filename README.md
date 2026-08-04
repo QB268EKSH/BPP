@@ -20,15 +20,12 @@ Below is a selection of my finest (and occasionally chaotic) Data Science projec
   </p>
 </div>
 
-
+## Extra Links
 
 <ul>
   <li><a href="cv.html">CV</a></li>
   <li><a href="projects.html">Projects</a></li>
   <li><a href="links.html">Extra Links</a></li>
 </ul>
-
-
-## Extra Links
 
 
