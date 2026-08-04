@@ -125,6 +125,8 @@ Walk‑forward validation results:
 
 > **Image Placeholder:**  
 > `![Walk-Forward Validation](assets/figures/Project1-Fig3.png)`
+> ![Walk-Forward Validation](/BPP/Projects/assets/figures/Project1-Fig3.png)
+
 
 Findings:
 
