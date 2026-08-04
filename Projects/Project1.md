@@ -118,12 +118,13 @@ Walk‑forward validation results:
 | Q1 2026 | 50.0% | 59.5% | 47.6% |
 | Q2 2026 | 42.6% | 53.2% | 55.3% |
 | Q3 2026 | 50.0% | 50.0% | 75.0% |
-<strong>Table 1: </strong>
+
+<strong>Table 1: Walk-Forward Validation Results Across Multiple Market Periods</strong>
 <br><br>
 <!-- <p align="center"> -->
   <img src="/assets/figures/Project1-Fig3.png" alt="Walk-Forward Validation" width="600">
 
-  <strong>Figure 3: Walk-Forward Validation</strong>
+  <strong>Figure 3: Walk-Forward Validation Accuracy Across Market Periods</strong>
 <!-- </p> -->
 <br><br>
 Findings:
@@ -151,7 +152,8 @@ Logistic Regression coefficients (rounded):
 | MA5 | -0.301 |
 | Close | -0.424 |
 | Low | -0.444 |
-<strong>Table 2: </strong>
+
+<strong>Table 2: Coefficient Values</strong>
 <br><br>
 <!-- <p align="center"> -->
   <img src="/assets/figures/Project1-Fig4.png" alt="Coefficient Plot" width="600">
