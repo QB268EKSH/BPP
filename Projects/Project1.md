@@ -1,3 +1,8 @@
+---
+layout: default
+title: Project 1
+---
+
 # Evaluating the Impact of Model Complexity on Stock Market Direction Prediction
 
 ## Executive Summary
