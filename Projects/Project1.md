@@ -100,11 +100,31 @@ Temporal ordering was preserved using chronological train/test splits. Walk‑fo
 
 Rounded accuracy values:
 
-| Model | Accuracy |
-|-------|----------|
-| Baseline | 0.426 |
-| Logistic Regression | 0.532 |
-| Neural Network (MLP) | 0.553 |
+<div style="display: flex; justify-content: center; flex-direction: column; align-items: center;">
+  <table>
+    <thead>
+      <tr>
+        <th>Model</th>
+        <th>Accuracy</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Baseline</td>
+        <td>0.426</td>
+      </tr>
+      <tr>
+        <td>Logistic Regression</td>
+        <td>0.532</td>
+      </tr>
+      <tr>
+        <td>Neural Network (MLP)</td>
+        <td>0.553</td>
+      </tr>
+    </tbody>
+  </table>
+  <em>Figure 4: Model Accuracy Comparison</em>
+</div>
 
 <p align="center">
   <img src="/assets/figures/Project1-Fig2.png" alt="Model Accuracy Comparison" width="600">
