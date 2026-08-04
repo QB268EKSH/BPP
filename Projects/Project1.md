@@ -68,10 +68,9 @@ These indicators capture short‑term momentum and longer‑term trends.
 
 <!-- <p align="center"> -->
   <img src="/assets/figures/Project1-Fig1.png" alt="Price Movements and Moving Averages" width="600">
-  <br>
-  <em>Figure 1: Price Movements and Moving Averages</em>
+<strong>Figure 1: Price Movements and Moving Averages</strong>
 <!-- </p> -->
-
+<br><br>
 The target variable was defined as a binary outcome indicating whether the stock price increased or decreased on the following trading day.
 
 ---
@@ -123,10 +122,10 @@ Rounded accuracy values:
 
 <!-- <p align="center"> -->
   <img src="/assets/figures/Project1-Fig2.png" alt="Model Accuracy Comparison" width="600">
-  <br>
-  <em>Figure 2: Model Accuracy Comparison</em>
+ X
+  <strong>Figure 2: Model Accuracy Comparison</strong>
 <!-- </p> -->
-
+<br><br>
 Although the Neural Network delivered the strongest performance, the improvement over Logistic Regression was modest at **2.1 percentage points**.
 
 ---
@@ -146,10 +145,10 @@ Walk‑forward validation results:
 
 <!-- <p align="center"> -->
   <img src="/assets/figures/Project1-Fig3.png" alt="Walk-Forward Validation" width="600">
-  <br>
+
   <em>Figure 3: Walk-Forward Validation</em>
 <!-- </p> -->
-
+<br><br>
 Findings:
 
 - Neural Network outperformed Logistic Regression in **3 of 6** periods  
@@ -180,10 +179,10 @@ Logistic Regression coefficients (rounded):
 
 <!-- <p align="center"> -->
   <img src="/assets/figures/Project1-Fig4.png" alt="Coefficient Plot" width="600">
-  <br>
+
   <em>Figure 4: Coefficient Plot</em>
 <!-- </p> -->
-
+<br><br>
 Interpretation:
 
 - High and MA20 positively correlate with next‑day increases  
