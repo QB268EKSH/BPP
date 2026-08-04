@@ -68,7 +68,7 @@ These indicators capture short‑term momentum and longer‑term trends.
 
 <!-- <p align="center"> -->
   <img src="/assets/figures/Project1-Fig1.png" alt="Price Movements and Moving Averages" width="600">
-<strong>Figure 1: Price Movements and Moving Averages</strong>
+  <strong>Figure 1: Price Movements and Moving Averages</strong>
 <!-- </p> -->
 <br><br>
 The target variable was defined as a binary outcome indicating whether the stock price increased or decreased on the following trading day.
@@ -97,36 +97,12 @@ Temporal ordering was preserved using chronological train/test splits. Walk‑fo
 
 ## Model Performance
 
-Rounded accuracy values:
-
-<div style="text-align: center;">
-  <table style="display: inline-block;">
-    <tr>
-      <th>Model</th>
-      <th>Accuracy</th>
-    </tr>
-    <tr>
-      <td>Baseline</td>
-      <td>0.43</td>
-    </tr>
-    <tr>
-      <td>Logistic Regression</td>
-      <td>0.53</td>
-    </tr>
-    <tr>
-      <td>Neural Network (MLP)</td>
-      <td>0.55</td>
-    </tr>
-  </table>
-</div>
-
 <!-- <p align="center"> -->
   <img src="/assets/figures/Project1-Fig2.png" alt="Model Accuracy Comparison" width="600">
- X
   <strong>Figure 2: Model Accuracy Comparison</strong>
 <!-- </p> -->
 <br><br>
-Although the Neural Network delivered the strongest performance, the improvement over Logistic Regression was modest at **2.1 percentage points**.
+Although the Neural Network delivered the strongest performance, the improvement over Logistic Regression was modest at <strong>2.1 percentage points</strong>.
 
 ---
 
@@ -142,11 +118,12 @@ Walk‑forward validation results:
 | Q1 2026 | 50.0% | 59.5% | 47.6% |
 | Q2 2026 | 42.6% | 53.2% | 55.3% |
 | Q3 2026 | 50.0% | 50.0% | 75.0% |
-
+<strong>Table 1: </strong>
+<br><br>
 <!-- <p align="center"> -->
   <img src="/assets/figures/Project1-Fig3.png" alt="Walk-Forward Validation" width="600">
 
-  <em>Figure 3: Walk-Forward Validation</em>
+  <strong>Figure 3: Walk-Forward Validation</strong>
 <!-- </p> -->
 <br><br>
 Findings:
@@ -174,13 +151,11 @@ Logistic Regression coefficients (rounded):
 | MA5 | -0.301 |
 | Close | -0.424 |
 | Low | -0.444 |
-
-`![](/assets/figures/Project1-Fig4.png)`
-
+<strong>Table 2: </strong>
+<br><br>
 <!-- <p align="center"> -->
   <img src="/assets/figures/Project1-Fig4.png" alt="Coefficient Plot" width="600">
-
-  <em>Figure 4: Coefficient Plot</em>
+  <strong>Figure 4: Coefficient Plot</strong>
 <!-- </p> -->
 <br><br>
 Interpretation:
