@@ -1,4 +1,4 @@
-# YData Science CV
+# Data Science CV
 ## Work Experience
 Experienced analytics professional with expertise in data analysis, risk management, and business intelligence. Proven ability to deliver actionable insights, improve processes, and support informed decision-making through strong analytical skills and effective stakeholder engagement. Consistently demonstrates professionalism, attention to detail, and a commitment to achieving positive business outcomes.
 ## Education
@@ -13,7 +13,7 @@ Below is a selection of my finest (and occasionally chaotic) Data Science projec
 
 ### <a href="https://qb268eksh.github.io/Project1/">Project: Evaluating the Impact of Model Complexity on Stock Market Direction Prediction Using Historical Trading Data</a>
 
-<img src="assets/Project1.png">
+<img src="PROJ1_LOGO.png">
   
   <p>
     <strong>Executive Summary:</strong><br>
