@@ -17,7 +17,7 @@ Below is a selection of my finest (and occasionally chaotic) Data Science projec
   
   <p>
     <strong>Executive Summary:</strong><br>
-    This project investigated whether increasing model complexity improves next-day stock market direction prediction using Yahoo Finance data. Three classification models were evaluated: a Dummy Baseline Classifier, Logistic Regression and a Multi-Layer Perceptron (MLP) Neural Network. Accuracy improved from 42.6% to 53.2% and 55.3% respectively, suggesting that increased complexity can improve performance, although gains remain constrained by dataset limitations and market uncertainty.
+    This project investigates whether increasing model complexity improves next‑day stock market direction prediction using historical Yahoo Finance data. Three models were evaluated: a Dummy Baseline Classifier, Logistic Regression, and a Multi‑Layer Perceptron (MLP) Neural Network. Accuracy improved from **42.6% → 53.2% → 55.3%**, suggesting that complexity helps, although gains remain modest due to dataset limitations and market uncertainty.
 <br><br>
 <strong>Objective:</strong><br>
 To test the hypothesis that increasing model complexity improves out-of-sample stock market direction prediction compared with a simpler Logistic Regression approach.
